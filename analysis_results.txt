@@ -1,0 +1,30 @@
+Titanic Dataset — EDA Insight Report
+
+Dataset overview
+----------------
+Rows: 891
+Original columns: 12
+Overall survival rate: 38.4%
+
+Missing values
+--------------
+- Cabin: 687 missing values (77.1%)
+- Age: 177 missing values (19.9%)
+- Age_Group: 177 missing values (19.9%)
+- Embarked: 2 missing values (0.2%)
+
+Key insights
+------------
+1. The overall survival rate was 38.4%.
+2. Female passengers had a 74.2% survival rate, compared with 18.9% for male passengers.
+3. First-class passengers had a 63.0% survival rate, compared with 47.3% in Class 2 and 24.2% in Class 3.
+4. The Child (0–12) group had the highest observed survival rate at 58.0% among the defined age groups.
+5. Age has 177 missing values, so age-based findings should be interpreted with some caution.
+
+Age groups
+----------
+Child: 0–12
+Teen: 13–18
+Young Adult: 19–35
+Adult: 36–60
+Senior: 61+
